@@ -1,4 +1,4 @@
-# Red_Girder
+# Red Girder
 
 ![Red Girder](https://i.imgur.com/mhjrySO.gif)
 
