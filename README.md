@@ -1,6 +1,6 @@
 # Red Girder
 
-![Red Girder](https://i.imgur.com/90tZlrY.gif)
+![Red Girder](https://i.imgur.com/ah6lmnF.gif)
 
 Red Girder is a single-screen arcade game that explores a time bending mechanic.
 
