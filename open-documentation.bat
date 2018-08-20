@@ -1,0 +1,1 @@
+start doc/shooter-manual.chm
